@@ -48,8 +48,8 @@ In this project, I took on the [QR Code Component Challenge](https://www.fronten
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View Solution HERE](https://www.frontendmentor.io/solutions/qr-code-component-using-flexbox-and-figma-GJgGmLZk3u)
+- Live Site URL: [View Live Site HERE](https://blazeshomida.github.io/QR-Code-Component/)
 
 ***
 
